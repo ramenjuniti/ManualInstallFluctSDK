@@ -2,8 +2,6 @@
 //  SceneDelegate.m
 //  ManualInstallFluctSDK
 //
-//  Created by j-kugizaki on 2022/09/07.
-//
 
 #import "SceneDelegate.h"
 
