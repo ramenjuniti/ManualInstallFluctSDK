@@ -1,4 +1,4 @@
-# FluctSDK手動インストール
+# FluctSDK手動インストール手順
 
 1. https://github.com/voyagegroup/FluctSDK-iOS/releases から最新版の`Source code`をダウンロードする
 1. ダウンロードしたzipにある`FluctSDK.embeddedframework/FluctSDK.xcframework`をXcodeにドラッグアンドドロップし、`Build Phase`の`Link Binary With Libraries`に追加する
